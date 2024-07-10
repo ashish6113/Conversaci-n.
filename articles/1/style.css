@@ -1,0 +1,38 @@
+.background{
+    background-image: url('../../background-img/image.png');
+    height: 20rem;
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+.article{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 50rem;
+    align-items: center;
+    height: 25rem;
+    padding: 2rem;
+}
+.heading:hover{
+    text-decoration: none;
+}
+
+.main-part{
+    padding: 2rem;
+}
+.heading-article{
+    font-size: 2.5rem;
+    margin: 1.5rem 0;
+}
+.sub-heading-article{
+    font-size: 2rem;
+    margin: 1.5rem 0;
+    color: rgb(27, 26, 26);
+}
+.paragraph-article{
+    font-size: 1.6rem;
+    margin: 1rem 0;
+    color: rgb(52, 52, 52);
+}

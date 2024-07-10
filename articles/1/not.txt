@@ -1,0 +1,3 @@
+<div class="heading-article"></div>
+<div class="sub-heading-article"></div>
+<div class="paragraph-article"></div>
